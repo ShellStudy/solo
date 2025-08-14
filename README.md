@@ -26,6 +26,6 @@
 
 ## 🧑‍💻 팀원
 | 팀장 | 팀원 |
-|:-----:|:--------:|:---------:|
+|:-----:|:--------:|
 | [<img src="https://github.com/imhonggeun.png" width="80" alt="임홍근"/>](https://github.com/imhonggeun) | [<img src="https://github.com/parkpyo.png" width="80" alt="박표"/>](https://github.com/parkpyo) | 
 | [임홍근](https://github.com/imhonggeun) | [박표](https://github.com/parkpyo) | 
